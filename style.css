@@ -1,3 +1,34 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    border: 0px;
+}
+.partone{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.partone ul{
+    display: flex;
+    gap: 20px;
+}
+.partone li{
+    display: flex;
+    gap: 20px;
+    padding-top: 8px;
+    
+}
+.bgn{
+    background-color: greenyellow;
+    padding: 20px;
+    padding-left: 40%;
+}
+
+
+
 .section{
     /* display: flex; */
     position: relative;
